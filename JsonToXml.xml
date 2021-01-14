@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root><address><zipcode>95129</zipcode><city>San Jose</city><street>Albany Dr</street></address><role>Manager</role><cities>Los Angeles</cities><cities>New York</cities><permanent>true</permanent><name>Pankaj</name><id>123</id><properties><salary>1000 USD</salary><age>29 years</age></properties><phoneNumbers>123456</phoneNumbers><phoneNumbers>987654</phoneNumbers></root>
